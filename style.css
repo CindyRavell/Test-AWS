@@ -1,0 +1,13 @@
+#principal{
+    color:rgb(28, 134, 129); 
+    
+}
+
+.centrar {
+    display:block;
+    margin:auto;
+}
+
+body{
+    background-color: rgba(66, 103, 139, .5);
+}
